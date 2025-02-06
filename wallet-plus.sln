@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wallet-plus", "wallet-plus\wallet-plus.csproj", "{57924176-B045-476C-8841-053F2B38100C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57924176-B045-476C-8841-053F2B38100C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57924176-B045-476C-8841-053F2B38100C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57924176-B045-476C-8841-053F2B38100C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57924176-B045-476C-8841-053F2B38100C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
